@@ -1,14 +1,14 @@
 {
-  "name": "san-francisco-react-map-gl-starter",
+  "name": "react-webpack-starter",
   "version": "1.0.0",
-  "description": "Starter code for building React Map GL visualizations of San Francisco",
+  "description": "Starter code for building React / ES6 apps",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack",
     "dev-build": "webpack --watch"
   },
-  "author": "",
+  "author": "Dylan J Sather",
   "license": "MIT",
   "dependencies": {
     "react": "^16.2.0",
